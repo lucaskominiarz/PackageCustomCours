@@ -1,0 +1,1 @@
+https://github.com/lucaskominiarz/PackageCustomCours.git?path=/CoursPackageCustom/Assets/com.lucas.utils
